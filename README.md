@@ -21,6 +21,7 @@
       <li><strong>Styling & UI:</strong> Tailwind CSS, Bootstrap</li>
       <li><strong>Design Principles:</strong> Responsive Design, Mobile-First Approach</li>
       <li><strong>Development Tools:</strong> Git, GitHub, Visual Studio Code</li>
+      <li><strong>DataBase:</strong>MySQL,MongoDB,Suprabase</li>
     </ul>
   </section>
 
@@ -45,6 +46,7 @@
   <section>
     <h2>👨‍💻 Author</h2>
     <p><strong>Aung Zaw Myint</strong><br>Frontend Web Developer</p>
+    <p><strong>Begineer UI/UX Designer</p>
   </section>
 
   <section>
